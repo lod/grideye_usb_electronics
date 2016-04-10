@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5205-x.x
+D Micrel fixed voltage 150mA LDO
+K LDO
+$ENDCMP
+#
+#End Doc Library

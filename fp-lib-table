@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Grideye)(type KiCad)(uri ${KIPRJMOD}/grideye.pretty)(options "")(descr ""))
+  (lib (name TagConnect)(type Legacy)(uri ${KIPRJMOD}/tag-connect/Tag-Connect.mod)(options "")(descr ""))
+  (lib (name MountingHoles)(type KiCad)(uri ${KIPRJMOD}/Mounting_Holes.pretty)(options "")(descr ""))
+)

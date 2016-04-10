@@ -1,0 +1,3 @@
+[submodule "Mounting_Holes.pretty"]
+	path = Mounting_Holes.pretty
+	url = git@github.com:KiCad/Mounting_Holes.pretty.git
